@@ -1,3 +1,1 @@
- scprit for besic shell
-
- comands
+shell basics 
